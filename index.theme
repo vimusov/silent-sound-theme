@@ -1,0 +1,6 @@
+[Sound Theme]
+Name=Silent
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
